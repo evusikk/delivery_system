@@ -3,6 +3,7 @@
 Клонировать репозиторий:
 
 git clone https://github.com/evusikk/delivery_system.git
+
 cd delivery_system
 
 Создать виртуальное окружение:
@@ -158,5 +159,7 @@ coverage run -m pytest
 coverage report
 
 Проверка покрытия с минимальным порогом 60%:
+
 coverage run -m pytest
+
 coverage report --fail-under=60
