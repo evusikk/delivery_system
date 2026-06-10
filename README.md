@@ -1,7 +1,7 @@
 установка проекта
 
 Клонировать репозиторий:
-git clone https://github.com/USERNAME/delivery_system.git
+git clone https://github.com/evusikk/delivery_system.git
 cd delivery_system
 
 Создать виртуальное окружение:
